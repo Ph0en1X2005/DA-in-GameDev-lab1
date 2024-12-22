@@ -39,7 +39,7 @@
 
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
-
+- Для запуска программы откройте Anaconda-Navigator. Запустите инструмент Jupiter Notebook и в открывшемся окне браузера создайте папку с файлом .ipynb, вписав в него код.
 ```py
 
 print('Hello World')
